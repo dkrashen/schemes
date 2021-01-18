@@ -16,7 +16,7 @@ baseurl: "/schemes"
 # url: "localhost:4000"
 url: "http://dkrashen.org"
 
-analytics: "false"
+analytics: "False"
 
 # Build settings
 markdown: kramdown
