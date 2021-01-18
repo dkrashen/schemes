@@ -1,0 +1,23 @@
+testing: true
+
+# Site settings
+# Course Info
+title: "Schemes"
+email: "&#x64;&#x61;&#x6e;&#x69;&#x65;&#x6c;&period;&#x6b;&#x72;&#x61;&#x73;&#x68;&#x65;&#x6e;&plus;&#x67;&#x72;&#x61;&#x70;&#x68;&#x74;&#x68;&#x79;&commat;&#x67;&#x6d;&#x61;&#x69;&#x6c;&period;&#x63;&#x6f;&#x6d;"
+tagline: "Rutgers MATH 536, Spring 2021."
+description: "Algebraic Geometry: schemes and other things"
+instructor: "Danny Krashen"
+instructor-email: "&#x64;&#x61;&#x6e;&#x69;&#x65;&#x6c;&#x2e;&#x6b;&#x72;&#x61;&#x73;&#x68;&#x65;&#x6e;&#x40;&#x72;&#x75;&#x74;&#x67;&#x65;&#x72;&#x73;&#x2e;&#x65;&#x64;&#x75;"
+office: "Hill 220"
+office-hour: "TBD"
+
+baseurl: "/schemes"
+
+# url: "localhost:4000"
+url: "http://dkrashen.org"
+
+analytics: "false"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
