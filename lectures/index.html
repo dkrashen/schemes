@@ -11,6 +11,10 @@ layout: default
 	<div class="col-md-3">
 		<a href="{{ l.filename }}"><button type="button" 
     class="btn btn-lnk btn-spaced">pdf</button></a>
+    {% if l.video %}
+		<a href="{{ l.video }}"><button type="button" 
+    class="btn btn-lnk btn-spaced">YouTube</button></a>
+    {% endif %}
 	</div>
   {% endif %}
 </div>
