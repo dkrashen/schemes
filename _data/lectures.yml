@@ -2,3 +2,6 @@
   description: "Presheaves and sheaves on topological spaces"
   filename: "lecture1.pdf"
   video: "https://youtu.be/3fklkqCePD8"
+- title: "Lecture 2 (1/28/2021)"
+  description: "Locally ringed spaces and the inevitibility of schemes"
+  filename: "lecture2.pdf"
