@@ -5,3 +5,14 @@
 - title: "Lecture 2 (1/28/2021)"
   description: "Locally ringed spaces and the inevitibility of schemes"
   filename: "lecture2.pdf"
+- title: "Lecture 3 (2/4/2021)"
+  description: "Schemes"
+  filename: "lecture3.pdf"
+- title: "Lecture 4 (2/11/2021)"
+  description: "Gluing schemes, Proj"
+  filename: "lecture4.pdf"
+- title: "Lecture 5 (2/18/2021)"
+  description: "More about Proj, some properties of schemes and morphisms"
+  filename: "lecture5.pdf"
+
+
