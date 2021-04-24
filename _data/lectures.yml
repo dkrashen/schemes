@@ -32,5 +32,11 @@
 - title: "Lecture 11 (4/8/2021)"
   description: "Divisors: Weil (and a bit of Cartier)"
   filename: "lecture11.pdf"
+- title: "Lecture 12 (4/15/2021)"
+  description: "The many lives of divisors"
+  filename: "lecture12.pdf"
+- title: "Lecture 13 (4/22/2021)"
+  description: "Morphisms to projective space and ample invertible sheaves"
+  filename: "lecture13.pdf"
 
 
